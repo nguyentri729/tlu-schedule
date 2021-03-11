@@ -1,0 +1,1 @@
+export const DKHSV_BASE_API = "http://dkhsv.tlu.edu.vn:8092"
